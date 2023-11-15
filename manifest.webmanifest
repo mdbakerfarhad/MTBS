@@ -1,0 +1,17 @@
+{
+    "lang": "en-us",
+    "name": "Movie Ticket Booking System",
+    "short_name": "MTBS",
+    "description": "A online movie ticket purchasing platform",
+    "start_url": "/MTBS",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/MTBS/HomePicture512.png",
+            "sizes": "512x512"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+CVV - any 3 digit number
+Expiry date - any month and year from the current month and year
+Visa(debit) Card 4000056655665556
+Mastercard 5555555555554444
+Mastercard (debit) 5200828282828210
+American Express 378282246310005
+Discover 6011111111111117
